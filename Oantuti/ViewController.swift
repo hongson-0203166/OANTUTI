@@ -161,7 +161,9 @@ class ViewController: UIViewController {
             resultLable.text = "LOSE"
         }else if resultOptionBot.image == UIImage(named: "bao"){
             resultLable.text = "WIN"
+            
         }
+        
     }
     
     
